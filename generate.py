@@ -248,13 +248,10 @@ randomtask = ''.join(random.choices(string.ascii_uppercase + string.digits, k=Le
 def Banner():
     os.system("clear")
     print(Green+""" 
- ____   __   _  _  ___  ____  _  _ 
-(  _ \ /__\ ( \/ )/ __)( ___)( \( )
- )___//(__)\ \  /( (_-. )__)  )  ( 
-(__) (__)(__)(__) \___/(____)(_)\_)
-Coded By youhacker55
+ PAYLOADER
+ Coded by Guzfr1ng
 
-Don t upload Payload To VirusTotal 
+Do not upload Payload To VirusTotal! 
   """)
 
 z = random.randint(40,50)
